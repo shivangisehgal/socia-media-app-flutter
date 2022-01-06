@@ -11,8 +11,9 @@ As for the backend, I have only implemented what was asked in the task:
 ## Screenshots
 <img src= "https://user-images.githubusercontent.com/83656526/148384537-7624fc0e-3405-49de-9742-8284e9c1baf4.png" width="360" height="780">  <img src= "https://user-images.githubusercontent.com/83656526/148384551-505b07fb-9ef8-42fb-967a-144988ebee97.png" width="360" height="780">
 
+
 ## Video Demo
-https://user-images.githubusercontent.com/83656526/148384528-cae8a03c-018f-4d5e-855e-c0a3a304ab40.mov
+https://user-images.githubusercontent.com/83656526/148390628-c03e7bdc-8abf-404f-8cff-6317602c22c6.mov
 
 ##
 
